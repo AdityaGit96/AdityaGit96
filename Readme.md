@@ -13,6 +13,3 @@
     <img alt="Stars" src="https://img.shields.io/github/stars/AdityaGit96?style=flat-square&label=Stars&labelColor=343b41"/>
 </p>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
