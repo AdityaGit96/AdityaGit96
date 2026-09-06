@@ -22,7 +22,7 @@
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+<h2> Skills</h2>
 
 <p>
   <strong>Languages:</strong>
@@ -43,3 +43,7 @@
   <strong>Databases:</strong>
   SQL Server · SQLite
 </p>
+
+
+
+
