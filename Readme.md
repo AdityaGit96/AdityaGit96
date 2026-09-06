@@ -57,21 +57,24 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Agent-Flow](https://github.com/AdityaGit96/Agent-Flow)
+<a href="https://github.com/AdityaGit96/Agent-Flow">
+<strong>Agent-Flow</strong>
+</a>
 
-Multi-agentic LLM orchestration system with graph-based execution. Dynamically routes queries across specialized agents using LangGraph and LangChain.
+Multi-agent LLM orchestration with dynamic routing across RAG, web, vision, and answer agents.
 
-**Tech:** `LangGraph` · `LangChain` · `LangSmith` · `Pinecone` · `Streamlit`
+`LangGraph` `LangChain` `LangSmith` `Pinecone`
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🧠 [Multi-AI-System](https://github.com/AdityaGit96/Multi-AI-System)
+<a href="https://github.com/AdityaGit96/Multi-AI-System">
+<strong>Multi-AI-System</strong>
+</a>
 
-Terminal-based AI consultation system with specialized Legal, Tech, and Business assistants. Includes RAG with legal documents and local execution via Ollama.
+Multi-agent AI consultation system combining specialized assistants, RAG, and local LLMs.
 
-**Tech:** `Python` · `Ollama` · `RAG`
+`Python` `Ollama` `RAG`
 
 </td>
 </tr>
@@ -79,25 +82,27 @@ Terminal-based AI consultation system with specialized Legal, Tech, and Business
 <tr>
 <td width="50%" valign="top">
 
-### 📋 [Techcps-Task-Manager](https://github.com/AdityaGit96/techcps-task-manager)
+<a href="https://github.com/AdityaGit96/Ecom-Analysis-AI-Agent">
+<strong>Ecom-Analysis-AI-Agent</strong>
+</a>
 
-Desktop task and project management application built with C# and .NET Framework, featuring authentication, task tracking, project organization, and SQL Server persistence.
+AI-driven e-commerce analysis workflow for data exploration, insights, visualizations, and reports.
 
-**Tech:** `C#` · `.NET` · `Windows Forms` · `SQL Server`
+`Python` `LangGraph` `LangChain` `Gemini`
 
 </td>
-
 <td width="50%" valign="top">
 
-### 📊 [Ecom-Analysis-AI-Agent](https://github.com/AdityaGit96/Ecom-Analysis-AI-Agent)
+<a href="https://github.com/AdityaGit96/techcps-task-manager">
+<strong>Techcps Task Manager</strong>
+</a>
 
-AI-powered e-commerce data analysis system for automated exploration, visualization, insights, and report generation.
+Desktop task management application with authentication, project tracking, and SQL Server persistence.
 
-**Tech:** `Python` · `LangGraph` · `LangChain` · `Google Gemini` · `Pandas`
+`C#` `.NET` `Windows Forms` `SQL Server`
 
 </td>
 </tr>
 </table>
-
 
 
