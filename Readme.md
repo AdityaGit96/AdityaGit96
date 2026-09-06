@@ -19,12 +19,6 @@
 
 ---
 
-<h3>About Me</h3>
-  <p>
-    I'm a developer focused on designing and building AI agent systems — from multi-agent orchestration with LangGraph to RAG-powered consultation systems. I work across the stack, with experience in C#/.NET desktop applications, data analytics, and web development.
-  </p>
-</td>
-
 ---
 
 ## Tech Stack
