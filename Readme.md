@@ -51,12 +51,91 @@
 
 ----
 
-
 ## Featured Projects
 
-| Project | Description |
-|---|---|
-| [Agent-Flow](https://github.com/AdityaGit96/Agent-Flow) | Multi-agent LLM orchestration with LangGraph. |
-| [Ecom-Analysis-AI-Agent](https://github.com/AdityaGit96/Ecom-Analysis-AI-Agent) | AI-powered e-commerce data analysis and reporting. |
-| [Multi-AI-System](https://github.com/AdityaGit96/Multi-AI-System) | Local multi-agent AI system with RAG and Ollama. |
-| [Techcps Task Manager](https://github.com/AdityaGit96/techcps-task-manager) | C#/.NET desktop task management application. |
+<table>
+<tr>
+<td width="48%" valign="top">
+
+<table>
+<tr>
+<td>
+
+**[Agent-Flow](https://github.com/AdityaGit96/Agent-Flow)** &nbsp; `Public`
+
+Multi-agent LLM system that dynamically routes queries across RAG, web, vision, and answer agents using LangGraph.
+
+`Python`
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+
+<table>
+<tr>
+<td>
+
+**[Ecom-Analysis-AI-Agent](https://github.com/AdityaGit96/Ecom-Analysis-AI-Agent)** &nbsp; `Public`
+
+AI-powered e-commerce analysis system for data exploration, visualization, insight generation, and reports.
+
+`Python`
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="3" height="16"></td>
+</tr>
+
+<tr>
+<td width="48%" valign="top">
+
+<table>
+<tr>
+<td>
+
+**[Multi-AI-System](https://github.com/AdityaGit96/Multi-AI-System)** &nbsp; `Public`
+
+Local multi-agent AI consultation system combining specialized assistants, RAG, and Ollama.
+
+`Python`
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+
+<table>
+<tr>
+<td>
+
+**[techcps-task-manager](https://github.com/AdityaGit96/techcps-task-manager)** &nbsp; `Public`
+
+C#/.NET desktop task management system with authentication, task tracking, and SQL Server persistence.
+
+`C#`
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
