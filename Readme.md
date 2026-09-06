@@ -50,6 +50,7 @@
 </p>
 
 ----
+
 ## Featured Projects
 
 <table width="100%">
@@ -57,9 +58,9 @@
 
 <td width="49%" valign="top">
 
-**[Agent-Flow](https://github.com/AdityaGit96/Agent-Flow)** &nbsp; `Public`
+**[Agent-Flow](https://github.com/AdityaGit96/Agent-Flow)**
 
-Multi-agent LLM system routing queries across RAG, web, vision, and answer agents with LangGraph.
+Multi-agent LLM orchestration system routing queries across RAG, web, vision, and answer agents with LangGraph.
 
 `Python`
 
@@ -69,9 +70,9 @@ Multi-agent LLM system routing queries across RAG, web, vision, and answer agent
 
 <td width="49%" valign="top">
 
-**[Ecom-Analysis-AI-Agent](https://github.com/AdityaGit96/Ecom-Analysis-AI-Agent)** &nbsp; `Public`
+**[Ecom-Analysis-AI-Agent](https://github.com/AdityaGit96/Ecom-Analysis-AI-Agent)**
 
-AI-powered e-commerce analysis system for data exploration, visualization, insights, and reports.
+AI-powered e-commerce analysis system for data exploration, visualization, insights, and report generation.
 
 `Python`
 
@@ -87,7 +88,7 @@ AI-powered e-commerce analysis system for data exploration, visualization, insig
 
 <td width="49%" valign="top">
 
-**[Multi-AI-System](https://github.com/AdityaGit96/Multi-AI-System)** &nbsp; `Public`
+**[Multi-AI-System](https://github.com/AdityaGit96/Multi-AI-System)**
 
 Local multi-agent AI system combining specialized assistants, RAG, and Ollama.
 
@@ -99,9 +100,9 @@ Local multi-agent AI system combining specialized assistants, RAG, and Ollama.
 
 <td width="49%" valign="top">
 
-**[techcps-task-manager](https://github.com/AdityaGit96/techcps-task-manager)** &nbsp; `Public`
+**[techcps-task-manager](https://github.com/AdityaGit96/techcps-task-manager)**
 
-C#/.NET desktop task management system with authentication, task tracking, and SQL Server.
+C#/.NET desktop task manager with authentication, task tracking, projects, and SQL Server.
 
 `C#`
 
@@ -109,3 +110,7 @@ C#/.NET desktop task management system with authentication, task tracking, and S
 
 </tr>
 </table>
+
+
+
+
