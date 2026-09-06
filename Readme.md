@@ -50,92 +50,62 @@
 </p>
 
 ----
-
 ## Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="48%" valign="top">
 
-<table>
-<tr>
-<td>
+<td width="49%" valign="top">
 
 **[Agent-Flow](https://github.com/AdityaGit96/Agent-Flow)** &nbsp; `Public`
 
-Multi-agent LLM system that dynamically routes queries across RAG, web, vision, and answer agents using LangGraph.
+Multi-agent LLM system routing queries across RAG, web, vision, and answer agents with LangGraph.
 
 `Python`
 
 </td>
-</tr>
-</table>
 
-</td>
+<td width="2%"></td>
 
-<td width="4%"></td>
-
-<td width="48%" valign="top">
-
-<table>
-<tr>
-<td>
+<td width="49%" valign="top">
 
 **[Ecom-Analysis-AI-Agent](https://github.com/AdityaGit96/Ecom-Analysis-AI-Agent)** &nbsp; `Public`
 
-AI-powered e-commerce analysis system for data exploration, visualization, insight generation, and reports.
+AI-powered e-commerce analysis system for data exploration, visualization, insights, and reports.
 
 `Python`
 
 </td>
-</tr>
-</table>
 
-</td>
 </tr>
 
 <tr>
-<td colspan="3" height="16"></td>
+<td colspan="3" height="18"></td>
 </tr>
 
 <tr>
-<td width="48%" valign="top">
 
-<table>
-<tr>
-<td>
+<td width="49%" valign="top">
 
 **[Multi-AI-System](https://github.com/AdityaGit96/Multi-AI-System)** &nbsp; `Public`
 
-Local multi-agent AI consultation system combining specialized assistants, RAG, and Ollama.
+Local multi-agent AI system combining specialized assistants, RAG, and Ollama.
 
 `Python`
 
 </td>
-</tr>
-</table>
 
-</td>
+<td width="2%"></td>
 
-<td width="4%"></td>
-
-<td width="48%" valign="top">
-
-<table>
-<tr>
-<td>
+<td width="49%" valign="top">
 
 **[techcps-task-manager](https://github.com/AdityaGit96/techcps-task-manager)** &nbsp; `Public`
 
-C#/.NET desktop task management system with authentication, task tracking, and SQL Server persistence.
+C#/.NET desktop task management system with authentication, task tracking, and SQL Server.
 
 `C#`
 
 </td>
+
 </tr>
 </table>
-
-</td>
-</tr>
-</table>
-
