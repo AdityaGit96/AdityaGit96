@@ -51,31 +51,52 @@
 
 ----
 
+```markdown
 ## Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### [Agent-Flow](https://github.com/AdityaGit96/Agent-Flow)
-Multi-agentic LLM orchestration system with graph-based execution. Dynamically routes queries across specialized agents (Router, RAG, Web, Vision, Answer) using LangGraph and LangChain.
+
+Multi-agentic LLM orchestration system with graph-based execution. Dynamically routes queries across specialized agents for RAG, web search, vision, and answer generation.
 
 **Tech:** LangGraph · LangChain · LangSmith · Pinecone · Streamlit
 
----
+</td>
+<td width="50%" valign="top">
 
 ### [Multi-AI-System](https://github.com/AdityaGit96/Multi-AI-System)
-Terminal-based AI consultation system where specialized assistants (Legal, Tech, Business) debate problems in real-time. Features RAG with legal documents and local execution via Ollama.
+
+Terminal-based multi-agent AI consultation system with specialized Legal, Tech, and Business assistants. Includes RAG with legal documents and local execution using Ollama.
 
 **Tech:** Python · Ollama · RAG
 
----
+</td>
+</tr>
 
-### [Techcps-Task-Manager](https://github.com/AdityaGit96/techcps-task-manager)
-Desktop task and project management application built with C# and .NET Framework. Features user authentication, task tracking, project organization, and SQL Server persistence.
+<tr>
+<td width="50%" valign="top">
+
+### [Ecom-Analysis-AI-Agent](https://github.com/AdityaGit96/Ecom-Analysis-AI-Agent)
+
+AI-powered e-commerce analysis system that automates data exploration, analysis, visualization, insight generation, and report creation.
+
+**Tech:** Python · LangGraph · LangChain · Pandas · Streamlit
+
+</td>
+<td width="50%" valign="top">
+
+### [Techcps Task Manager](https://github.com/AdityaGit96/techcps-task-manager)
+
+Desktop task and project management application with authentication, task tracking, project organization, and SQL Server persistence.
 
 **Tech:** C# · .NET · Windows Forms · SQL Server
 
----
+</td>
+</tr>
+</table>
+```
 
-### [Ecom-Analysis-AI-Agent](https://github.com/AdityaGit96/Ecom-Analysis-AI-Agent)
-AI agent for e-commerce data analysis and insights generation.
-
-**Tech:** Python · AI/ML · Data Analysis
 
