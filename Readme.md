@@ -13,9 +13,33 @@
     <img alt="Stars" src="https://img.shields.io/github/stars/AdityaGit96?style=flat-square&label=Stars&labelColor=343b41"/>
 </p>
 
-----
+---
 
 <h3> About Me</h3>
   <p>
     I'm a developer focused on designing and building AI agent systems — from multi-agent orchestration with LangGraph to RAG-powered consultation systems. I work across the stack, with experience in C#/.NET desktop applications, data analytics, and web development.
   </p>
+
+---
+
+<h2>🛠️ Tech Stack</h2>
+
+<p>
+  <strong>Languages:</strong>
+  Python · C# · JavaScript
+</p>
+
+<p>
+  <strong>AI & LLM:</strong>
+  LangGraph · LangChain · Ollama · RAG · Pinecone
+</p>
+
+<p>
+  <strong>Frameworks & UI:</strong>
+  .NET · Streamlit · Windows Forms
+</p>
+
+<p>
+  <strong>Databases:</strong>
+  SQL Server · SQLite
+</p>
