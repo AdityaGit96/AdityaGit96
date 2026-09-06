@@ -58,20 +58,21 @@
 <tr>
 <td width="50%" valign="top">
 
-### [Agent-Flow](https://github.com/AdityaGit96/Agent-Flow)
+### 🤖 [Agent-Flow](https://github.com/AdityaGit96/Agent-Flow)
 
-Multi-agentic LLM orchestration system with graph-based execution. Dynamically routes queries across specialized agents for RAG, web search, vision, and answer generation.
+Multi-agentic LLM orchestration system with graph-based execution. Dynamically routes queries across specialized agents using LangGraph and LangChain.
 
-**Tech:** LangGraph · LangChain · LangSmith · Pinecone · Streamlit
+**Tech:** `LangGraph` · `LangChain` · `LangSmith` · `Pinecone` · `Streamlit`
 
 </td>
+
 <td width="50%" valign="top">
 
-### [Multi-AI-System](https://github.com/AdityaGit96/Multi-AI-System)
+### 🧠 [Multi-AI-System](https://github.com/AdityaGit96/Multi-AI-System)
 
-Terminal-based multi-agent AI consultation system with specialized Legal, Tech, and Business assistants. Includes RAG with legal documents and local execution using Ollama.
+Terminal-based AI consultation system with specialized Legal, Tech, and Business assistants. Includes RAG with legal documents and local execution via Ollama.
 
-**Tech:** Python · Ollama · RAG
+**Tech:** `Python` · `Ollama` · `RAG`
 
 </td>
 </tr>
@@ -79,20 +80,21 @@ Terminal-based multi-agent AI consultation system with specialized Legal, Tech, 
 <tr>
 <td width="50%" valign="top">
 
-### [Ecom-Analysis-AI-Agent](https://github.com/AdityaGit96/Ecom-Analysis-AI-Agent)
+### 📋 [Techcps-Task-Manager](https://github.com/AdityaGit96/techcps-task-manager)
 
-AI-powered e-commerce analysis system that automates data exploration, analysis, visualization, insight generation, and report creation.
+Desktop task and project management application built with C# and .NET Framework, featuring authentication, task tracking, project organization, and SQL Server persistence.
 
-**Tech:** Python · LangGraph · LangChain · Pandas · Streamlit
+**Tech:** `C#` · `.NET` · `Windows Forms` · `SQL Server`
 
 </td>
+
 <td width="50%" valign="top">
 
-### [Techcps Task Manager](https://github.com/AdityaGit96/techcps-task-manager)
+### 📊 [Ecom-Analysis-AI-Agent](https://github.com/AdityaGit96/Ecom-Analysis-AI-Agent)
 
-Desktop task and project management application with authentication, task tracking, project organization, and SQL Server persistence.
+AI-powered e-commerce data analysis system for automated exploration, visualization, insights, and report generation.
 
-**Tech:** C# · .NET · Windows Forms · SQL Server
+**Tech:** `Python` · `LangGraph` · `LangChain` · `Google Gemini` · `Pandas`
 
 </td>
 </tr>
