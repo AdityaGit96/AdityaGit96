@@ -57,24 +57,21 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/AdityaGit96/Agent-Flow">
-<strong>Agent-Flow</strong>
-</a>
+**[Agent-Flow](https://github.com/AdityaGit96/Agent-Flow)** &nbsp; `Public`
 
-Multi-agent LLM orchestration with dynamic routing across RAG, web, vision, and answer agents.
+Multi-agent LLM system that dynamically routes queries across RAG, web, vision, and answer agents using LangGraph.
 
-`LangGraph` `LangChain` `LangSmith` `Pinecone`
+`Python`
 
 </td>
+
 <td width="50%" valign="top">
 
-<a href="https://github.com/AdityaGit96/Multi-AI-System">
-<strong>Multi-AI-System</strong>
-</a>
+**[Ecom-Analysis-AI-Agent](https://github.com/AdityaGit96/Ecom-Analysis-AI-Agent)** &nbsp; `Public`
 
-Multi-agent AI consultation system combining specialized assistants, RAG, and local LLMs.
+AI-powered e-commerce analysis system for data exploration, visualization, insight generation, and reports.
 
-`Python` `Ollama` `RAG`
+`Python`
 
 </td>
 </tr>
@@ -82,27 +79,23 @@ Multi-agent AI consultation system combining specialized assistants, RAG, and lo
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/AdityaGit96/Ecom-Analysis-AI-Agent">
-<strong>Ecom-Analysis-AI-Agent</strong>
-</a>
+**[Multi-AI-System](https://github.com/AdityaGit96/Multi-AI-System)** &nbsp; `Public`
 
-AI-driven e-commerce analysis workflow for data exploration, insights, visualizations, and reports.
+Local multi-agent AI consultation system combining specialized assistants, RAG, and Ollama.
 
-`Python` `LangGraph` `LangChain` `Gemini`
+`Python`
 
 </td>
+
 <td width="50%" valign="top">
 
-<a href="https://github.com/AdityaGit96/techcps-task-manager">
-<strong>Techcps Task Manager</strong>
-</a>
+**[techcps-task-manager](https://github.com/AdityaGit96/techcps-task-manager)** &nbsp; `Public`
 
-Desktop task management application with authentication, project tracking, and SQL Server persistence.
+C#/.NET desktop task management system with authentication, task tracking, and SQL Server persistence.
 
-`C#` `.NET` `Windows Forms` `SQL Server`
+`C#`
 
 </td>
 </tr>
 </table>
-
 
