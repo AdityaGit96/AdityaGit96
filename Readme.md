@@ -51,9 +51,10 @@
 
 ----
 
+
 ## Featured Projects
 
-<table>
+<table cellspacing="12">
 <tr>
 <td width="50%" valign="top">
 
@@ -98,4 +99,3 @@ C#/.NET desktop task management system with authentication, task tracking, and S
 </td>
 </tr>
 </table>
-
