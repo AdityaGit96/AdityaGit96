@@ -51,7 +51,6 @@
 
 ----
 
-```markdown
 ## Featured Projects
 
 <table>
@@ -99,6 +98,6 @@ AI-powered e-commerce data analysis system for automated exploration, visualizat
 </td>
 </tr>
 </table>
-```
+
 
 
