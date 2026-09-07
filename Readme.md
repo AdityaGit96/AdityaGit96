@@ -125,16 +125,6 @@ C#/.NET desktop task manager with authentication, task tracking, projects, and S
   <img src="https://streak-stats.demolab.com/?user=AdityaGit96&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- 3. Contribution / Activity Graph (Direct SVG Mirror) -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AdityaGit96&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-<!-- 4. Profile Trophy (Rate-limit resilient domain) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaGit96&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
 
 
 
