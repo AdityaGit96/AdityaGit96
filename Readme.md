@@ -114,9 +114,13 @@ C#/.NET desktop task manager with authentication, task tracking, projects, and S
 
 ---
 
-## GitHub
+<h3 align="center">GitHub Activity</h3>
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-AdityaGit96-181717?logo=github&logoColor=white)](https://github.com/AdityaGit96)
-
-
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGit96&hide_border=true"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
