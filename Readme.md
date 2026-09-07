@@ -114,13 +114,26 @@ C#/.NET desktop task manager with authentication, task tracking, projects, and S
 
 ---
 
-<h3 align="center">GitHub Activity</h3>
-
+<h3 align="center">My Statistics:</h3>
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGit96&hide_border=true"
-    width="95%"
-    alt="GitHub Activity Graph"
-  />
-</p>
+<table align="center" style="background-color: black;">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AdityaGit96&show_icons=true&locale=en&theme=dark" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGit96&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaGit96&show_icons=true&locale=en&layout=compact&theme=dark"/>
+  
+  </td>
+</tr>
+</table>
+
+
+
+
+
 
