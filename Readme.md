@@ -135,7 +135,12 @@ C#/.NET desktop task manager with authentication, task tracking, projects, and S
 
 
 
+<!-- Replace :owner/:repo with your target repository -->
 
+[![Repo Stars](https://img.shields.io/github/stars/:owner/:repo?style=flat-square&logo=github&color=0e75b6)](https://github.com/:owner/:repo/stargazers)
+[![Repo Forks](https://img.shields.io/github/forks/:owner/:repo?style=flat-square&logo=github&color=blue)](https://github.com/:owner/:repo/network/members)
+[![Open Issues](https://img.shields.io/github/issues/:owner/:repo?style=flat-square&color=yellow)](https://github.com/:owner/:repo/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/:owner/:repo?style=flat-square&color=green)](https://github.com/:owner/:repo/commits/main)
 
 
 
