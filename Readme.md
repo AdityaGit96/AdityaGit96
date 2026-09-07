@@ -144,13 +144,9 @@ C#/.NET desktop task manager with authentication, task tracking, projects, and S
   <a href="mailto:techcps.business@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-TECHCPS-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/AdityaGit96" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-ADITYAGIT96-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Techcps" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-TECHCPS-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-
-
-
 
 
