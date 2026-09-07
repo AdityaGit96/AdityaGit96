@@ -114,36 +114,26 @@ C#/.NET desktop task manager with authentication, task tracking, projects, and S
 
 ---
 
-
+<!-- 1. Stats & Top Languages (Fast, high-uptime mirror) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaGit96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGit96&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AdityaGit96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdityaGit96&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+<!-- 2. Streak Stats (Reliable Heroku / Vercel Mirror) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGit96&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AdityaGit96&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<!-- 3. Contribution / Activity Graph (Direct SVG Mirror) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaGit96&theme=flat&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=AdityaGit96&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
+<!-- 4. Profile Trophy (Rate-limit resilient domain) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGit96&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaGit96&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </p>
-
-
-
-
-<!-- Replace :owner/:repo with your target repository -->
-
-[![Repo Stars](https://img.shields.io/github/stars/:owner/:repo?style=flat-square&logo=github&color=0e75b6)](https://github.com/:owner/:repo/stargazers)
-[![Repo Forks](https://img.shields.io/github/forks/:owner/:repo?style=flat-square&logo=github&color=blue)](https://github.com/:owner/:repo/network/members)
-[![Open Issues](https://img.shields.io/github/issues/:owner/:repo?style=flat-square&color=yellow)](https://github.com/:owner/:repo/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/:owner/:repo?style=flat-square&color=green)](https://github.com/:owner/:repo/commits/main)
-
-
-
 
 
 
