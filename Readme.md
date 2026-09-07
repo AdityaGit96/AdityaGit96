@@ -23,82 +23,57 @@
 
 <!--->
 
-<h2 align="center">🛠️ Tech Stack</h2>
+
+<h2> align="center">🛠️ Tech Stack</h2>
 
 <table width="100%">
 <tr>
 
-<td width="32%" valign="top">
+<td width="16.66%" valign="top" align="center">
 
 **Languages**
 
-Python · C# · JavaScript
-
-<br />
+Python, C#, JavaScript
 
 </td>
 
-<td width="2%"></td>
-
-<td width="32%" valign="top">
+<td width="16.66%" valign="top" align="center">
 
 **AI & LLM**
 
-LangGraph · LangChain · Ollama · LangSmith
-
-<br />
+LangGraph, LangChain, Ollama
 
 </td>
 
-<td width="2%"></td>
+<td width="16.66%" valign="top" align="center">
 
-<td width="32%" valign="top">
+**AI Tools**
+
+LangSmith, Pinecone, RAG
+
+</td>
+
+<td width="16.66%" valign="top" align="center">
 
 **Data & ML**
 
-Pandas · NumPy · scikit-learn · LightGBM
-
-<br />
+Pandas, NumPy, scikit-learn
 
 </td>
 
-</tr>
-</table>
+<td width="16.66%" valign="top" align="center">
 
-<table width="100%">
-<tr>
+**Frameworks**
 
-<td width="32%" valign="top">
-
-**AI Concepts**
-
-RAG · AI Agents · LLM Apps
-
-<br />
+.NET, Streamlit, Windows Forms
 
 </td>
 
-<td width="2%"></td>
-
-<td width="32%" valign="top">
-
-**Frameworks & UI**
-
-.NET · Streamlit · Windows Forms
-
-<br />
-
-</td>
-
-<td width="2%"></td>
-
-<td width="32%" valign="top">
+<td width="16.66%" valign="top" align="center">
 
 **Databases**
 
-SQL Server · SQLite · Pinecone
-
-<br />
+SQL Server, SQLite
 
 </td>
 
