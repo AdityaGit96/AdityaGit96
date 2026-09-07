@@ -16,15 +16,14 @@
 <!--->
 
 
-<h2> About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
   <p>
     I'm a developer focused on designing and building AI agent systems — from multi-agent orchestration with LangGraph to RAG-powered consultation systems. I work across the stack, with experience in C#/.NET desktop applications, data analytics, and web development.
   </p>
 
 <!--->
 
-<h2> Tech Stack</h2>
-
+<h2 align="center">🛠️ Tech Stack</h2>
 <p>
   <strong>Languages:</strong>
   Python · C# · JavaScript
@@ -52,7 +51,7 @@
 
 <!--->
 
-<h2> Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <table width="100%">
 <tr>
@@ -115,7 +114,7 @@ C#/.NET desktop task manager with authentication, task tracking, projects, and S
 <!--->
 
 
-<h2> GitHub Statistics</h2>
+<h3 align="center">📊 GitHub Statistics</h3>
 
 <table align="center" border="0">
   <tr>
@@ -134,7 +133,7 @@ C#/.NET desktop task manager with authentication, task tracking, projects, and S
 
 <!--->
 
-<h2 align="center">📬 Connect With Me</h2>
+<h3 align="center">📬 Connect With Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/company/techcps/" target="_blank">
