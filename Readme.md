@@ -112,5 +112,29 @@ C#/.NET desktop task manager with authentication, task tracking, projects, and S
 </table>
 
 
+---
+
+
+<h3 align="center">My Statistics</h3>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+
+      <img src="https://github-readme-stats.vercel.app/api?username=AdityaGit96&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+
+    </td>
+
+    <td width="50%" align="center">
+
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGit96&hide_border=true" width="100%" />
+
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
