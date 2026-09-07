@@ -114,23 +114,9 @@ C#/.NET desktop task manager with authentication, task tracking, projects, and S
 
 ---
 
+## GitHub
 
-
-
-<h3 align="center">GitHub Statistics</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AdityaGit96&show_icons=true&hide_border=true"
-    width="48%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGit96&layout=compact&hide_border=true"
-    width="48%"
-    alt="Top Languages"
-  />
-</p>
+[![GitHub Profile](https://img.shields.io/badge/GitHub-AdityaGit96-181717?logo=github&logoColor=white)](https://github.com/AdityaGit96)
 
 
 
