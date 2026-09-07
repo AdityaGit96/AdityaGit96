@@ -228,3 +228,24 @@ SQL Server · SQLite · Pinecone
 </table>
 
 
+
+----
+
+
+# 5
+
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=AdityaGit96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td align="center" valign="middle">
+      <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdityaGit96&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+    <td align="center" valign="middle">
+      <img height="150" src="https://streak-stats.demolab.com/?user=AdityaGit96&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
