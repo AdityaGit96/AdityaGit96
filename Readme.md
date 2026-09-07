@@ -126,5 +126,8 @@ C#/.NET desktop task manager with authentication, task tracking, projects, and S
 </p>
 
 
-
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AdityaGit96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Overview" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdityaGit96&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</div>
 
