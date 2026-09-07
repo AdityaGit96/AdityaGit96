@@ -198,90 +198,33 @@ SQL Server · SQLite · Pinecone
 
 # 4
 
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<!-- ROW 1 -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%">
   <tr>
-    <td width="32%" valign="top">
-      <table width="100%">
-        <tr><td>
-
-**Languages**
-
-Python · C# · JavaScript
-
-        </td></tr>
-      </table>
+    <td width="50%" valign="top">
+      <br />
+      <b>Languages & Core</b>
+      <p>Python · C# · JavaScript · .NET</p>
     </td>
-    <td width="2%"></td>
-    <td width="32%" valign="top">
-      <table width="100%">
-        <tr><td>
-
-**AI & LLM**
-
-LangGraph · LangChain · Ollama · LangSmith
-
-        </td></tr>
-      </table>
+    <td width="50%" valign="top">
+      <br />
+      <b>AI & LLM Systems</b>
+      <p>LangGraph · LangChain · Ollama · LangSmith</p>
     </td>
-    <td width="2%"></td>
-    <td width="32%" valign="top">
-      <table width="100%">
-        <tr><td>
-
-**Data & ML**
-
-Pandas · NumPy · scikit-learn · LightGBM
-
-        </td></tr>
-      </table>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br />
+      <b>Data Science & ML</b>
+      <p>Pandas · NumPy · scikit-learn · LightGBM</p>
+    </td>
+    <td width="50%" valign="top">
+      <br />
+      <b>Architecture & Databases</b>
+      <p>RAG · AI Agents · SQL Server · SQLite · Pinecone</p>
     </td>
   </tr>
 </table>
-
-<!-- ROW 2 -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="32%" valign="top">
-      <table width="100%">
-        <tr><td>
-
-**AI Concepts**
-
-RAG · AI Agents · LLM Apps
-
-        </td></tr>
-      </table>
-    </td>
-    <td width="2%"></td>
-    <td width="32%" valign="top">
-      <table width="100%">
-        <tr><td>
-
-**Frameworks & UI**
-
-.NET · Streamlit · Windows Forms
-
-        </td></tr>
-      </table>
-    </td>
-    <td width="2%"></td>
-    <td width="32%" valign="top">
-      <table width="100%">
-        <tr><td>
-
-**Databases**
-
-SQL Server · SQLite · Pinecone
-
-        </td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
 
 
