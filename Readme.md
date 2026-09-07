@@ -25,7 +25,6 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-
 <table width="100%">
 <tr>
 
