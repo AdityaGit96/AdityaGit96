@@ -111,37 +111,9 @@ C#/.NET desktop task manager with authentication, task tracking, projects, and S
 </tr>
 </table>
 
-
 ---
 
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AdityaGit96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Overview" height="150" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdityaGit96&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=AdityaGit96&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
-</div>
-
-
----
-
-
-<table align="center" border="0">
-  <tr>
-    <td valign="top" width="33%">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=AdityaGit96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td valign="top" width="33%">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdityaGit96&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
-    </td>
-    <td valign="top" width="33%">
-      <img src="https://streak-stats.demolab.com/?user=AdityaGit96&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-
-
----
+## GitHub Statistics
 
 <table align="center" border="0">
   <tr>
