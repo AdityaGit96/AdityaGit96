@@ -114,20 +114,30 @@ C#/.NET desktop task manager with authentication, task tracking, projects, and S
 
 ---
 
-<h3 align="center">GitHub Statistics</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AdityaGit96&show_icons=true&locale=en&theme=dark&hide_border=true"
-    width="48%"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGit96&layout=compact&locale=en&theme=dark&hide_border=true"
-    width="48%"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaGit96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGit96&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGit96&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaGit96&theme=flat&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGit96&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+
+
+
+
+
+
 
 
 
