@@ -194,7 +194,94 @@ SQL Server · SQLite · Pinecone
 
 
 
+------
 
+# 4
+
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<!-- ROW 1 -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="32%" valign="top">
+      <table width="100%">
+        <tr><td>
+
+**Languages**
+
+Python · C# · JavaScript
+
+        </td></tr>
+      </table>
+    </td>
+    <td width="2%"></td>
+    <td width="32%" valign="top">
+      <table width="100%">
+        <tr><td>
+
+**AI & LLM**
+
+LangGraph · LangChain · Ollama · LangSmith
+
+        </td></tr>
+      </table>
+    </td>
+    <td width="2%"></td>
+    <td width="32%" valign="top">
+      <table width="100%">
+        <tr><td>
+
+**Data & ML**
+
+Pandas · NumPy · scikit-learn · LightGBM
+
+        </td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!-- ROW 2 -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="32%" valign="top">
+      <table width="100%">
+        <tr><td>
+
+**AI Concepts**
+
+RAG · AI Agents · LLM Apps
+
+        </td></tr>
+      </table>
+    </td>
+    <td width="2%"></td>
+    <td width="32%" valign="top">
+      <table width="100%">
+        <tr><td>
+
+**Frameworks & UI**
+
+.NET · Streamlit · Windows Forms
+
+        </td></tr>
+      </table>
+    </td>
+    <td width="2%"></td>
+    <td width="32%" valign="top">
+      <table width="100%">
+        <tr><td>
+
+**Databases**
+
+SQL Server · SQLite · Pinecone
+
+        </td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 
 
