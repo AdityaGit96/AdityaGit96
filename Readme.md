@@ -25,20 +25,11 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-**Languages**  
-`Python` · `C#` · `JavaScript`
+**Languages**  `Python` · `C#` · `JavaScript`  **AI & LLM**  `LangGraph` · `LangChain` · `Ollama` · `Pinecone`
 
-**AI & LLM**  
-`LangGraph` · `LangChain` · `Ollama` · `Pinecone`
+**AI Concepts**  `RAG` · `AI Agents` · `LLM Applications`  **Frameworks & UI**  `.NET` · `Streamlit` · `Windows Forms`
 
-**AI Concepts**  
-`RAG` · `AI Agents` · `LLM Applications`
-
-**Frameworks & UI**  
-`.NET` · `Streamlit` · `Windows Forms`
-
-**Databases**  
-`SQL Server` · `SQLite`
+**Databases**  `SQL Server` · `SQLite`
 
 
 <!--->
