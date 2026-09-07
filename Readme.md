@@ -24,6 +24,7 @@
 <!--->
 
 <h2 align="center">🛠️ Tech Stack</h2>
+
 **Languages**  
 `Python` · `C#` · `JavaScript`
 
