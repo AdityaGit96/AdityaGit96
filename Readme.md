@@ -130,7 +130,24 @@ C#/.NET desktop task manager with authentication, task tracking, projects, and S
 </table>
 
 
+---
 
+<h3 align="center">📬 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/company/techcps/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-TECHCPS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@TechcpsOfficial" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-TECHCPS-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:techcps.business@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-TECHCPS-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AdityaGit96" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-ADITYAGIT96-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 
 
