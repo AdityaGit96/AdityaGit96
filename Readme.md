@@ -24,30 +24,21 @@
 <!--->
 
 <h2 align="center">🛠️ Tech Stack</h2>
-<p>
-  <strong>Languages:</strong>
-  Python · C# · JavaScript
-</p>
+**Languages**  
+`Python` · `C#` · `JavaScript`
 
-<p>
-  <strong>AI & LLM:</strong>
-  LangGraph · LangChain · Ollama · Pinecone
-</p>
+**AI & LLM**  
+`LangGraph` · `LangChain` · `Ollama` · `Pinecone`
 
-<p>
-  <strong>AI Concepts:</strong>
-  RAG · AI Agents · LLM Applications
-</p>
+**AI Concepts**  
+`RAG` · `AI Agents` · `LLM Applications`
 
-<p>
-  <strong>Frameworks & UI:</strong>
-  .NET · Streamlit · Windows Forms
-</p>
+**Frameworks & UI**  
+`.NET` · `Streamlit` · `Windows Forms`
 
-<p>
-  <strong>Databases:</strong>
-  SQL Server · SQLite
-</p>
+**Databases**  
+`SQL Server` · `SQLite`
+
 
 <!--->
 
