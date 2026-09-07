@@ -32,7 +32,7 @@
 
 **Languages**
 
-`Python` · `C#` · `JavaScript`
+Python · C# · JavaScript
 
 </td>
 
@@ -42,7 +42,7 @@
 
 **AI & LLM**
 
-`LangGraph` · `LangChain` · `Ollama` · `LangSmith`
+LangGraph · LangChain · Ollama · LangSmith
 
 </td>
 
@@ -52,7 +52,7 @@
 
 **Data & ML**
 
-`Pandas` · `NumPy` · `scikit-learn` · `LightGBM`
+Pandas · NumPy · scikit-learn · LightGBM
 
 </td>
 
@@ -68,7 +68,7 @@
 
 **AI Concepts**
 
-`RAG` · `AI Agents` · `LLM Apps`
+RAG · AI Agents · LLM Apps
 
 </td>
 
@@ -78,7 +78,7 @@
 
 **Frameworks & UI**
 
-`.NET` · `Streamlit` · `Windows Forms`
+.NET · Streamlit · Windows Forms
 
 </td>
 
@@ -88,11 +88,12 @@
 
 **Databases**
 
-`SQL Server` · `SQLite` · `Pinecone`
+SQL Server · SQLite · Pinecone
 
 </td>
 
 </tr>
+
 </table>
 
 
