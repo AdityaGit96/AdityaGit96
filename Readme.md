@@ -34,6 +34,8 @@
 
 Python · C# · JavaScript
 
+<br />
+
 </td>
 
 <td width="2%"></td>
@@ -43,6 +45,8 @@ Python · C# · JavaScript
 **AI & LLM**
 
 LangGraph · LangChain · Ollama · LangSmith
+
+<br />
 
 </td>
 
@@ -54,14 +58,14 @@ LangGraph · LangChain · Ollama · LangSmith
 
 Pandas · NumPy · scikit-learn · LightGBM
 
+<br />
+
 </td>
 
 </tr>
+</table>
 
-<tr>
-<td colspan="5" height="18"></td>
-</tr>
-
+<table width="100%">
 <tr>
 
 <td width="32%" valign="top">
@@ -69,6 +73,8 @@ Pandas · NumPy · scikit-learn · LightGBM
 **AI Concepts**
 
 RAG · AI Agents · LLM Apps
+
+<br />
 
 </td>
 
@@ -80,6 +86,8 @@ RAG · AI Agents · LLM Apps
 
 .NET · Streamlit · Windows Forms
 
+<br />
+
 </td>
 
 <td width="2%"></td>
@@ -90,10 +98,11 @@ RAG · AI Agents · LLM Apps
 
 SQL Server · SQLite · Pinecone
 
+<br />
+
 </td>
 
 </tr>
-
 </table>
 
 
