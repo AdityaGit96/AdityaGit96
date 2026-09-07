@@ -13,14 +13,16 @@
     <img alt="Stars" src="https://img.shields.io/github/stars/AdityaGit96?style=flat-square&label=Stars&labelColor=343b41"/>
 </p>
 
----
+<!--Horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3> About Me</h3>
   <p>
     I'm a developer focused on designing and building AI agent systems — from multi-agent orchestration with LangGraph to RAG-powered consultation systems. I work across the stack, with experience in C#/.NET desktop applications, data analytics, and web development.
   </p>
 
----
+<!--Horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3> Tech Stack</h3>
 
@@ -49,7 +51,8 @@
   SQL Server · SQLite
 </p>
 
-----
+<!--Horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Featured Projects
 
@@ -111,7 +114,8 @@ C#/.NET desktop task manager with authentication, task tracking, projects, and S
 </tr>
 </table>
 
----
+<!--Horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## GitHub Statistics
 
@@ -130,7 +134,8 @@ C#/.NET desktop task manager with authentication, task tracking, projects, and S
 </table>
 
 
----
+<!--Horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">📬 Connect With Me</h3>
 
