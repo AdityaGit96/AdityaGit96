@@ -69,3 +69,81 @@ SQL Server · SQLite · Pinecone
 
 </tr>
 </table>
+
+
+---
+
+
+<h2>🛠️ Tech Stack</h2>
+
+<table width="100%">
+<tr>
+
+<td width="16.66%" valign="top" align="center">
+
+**Languages**
+
+`Python`<br>
+`C#`<br>
+`JavaScript`
+
+</td>
+
+<td width="16.66%" valign="top" align="center">
+
+**AI & LLM**
+
+`LangGraph`<br>
+`LangChain`<br>
+`Ollama`
+
+</td>
+
+<td width="16.66%" valign="top" align="center">
+
+**AI Tools**
+
+`LangSmith`<br>
+`Pinecone`<br>
+`RAG`
+
+</td>
+
+<td width="16.66%" valign="top" align="center">
+
+**Data & ML**
+
+`Pandas`<br>
+`NumPy`<br>
+`scikit-learn`
+
+</td>
+
+<td width="16.66%" valign="top" align="center">
+
+**Frameworks**
+
+`.NET`<br>
+`Streamlit`<br>
+`Windows Forms`
+
+</td>
+
+<td width="16.66%" valign="top" align="center">
+
+**Databases**
+
+`SQL Server`<br>
+`SQLite`
+
+</td>
+
+</tr>
+</table>
+
+
+
+
+
+
+
