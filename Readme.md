@@ -3,7 +3,7 @@
 -- URL: https://github.com/AdityaGit96
 -->
 
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center" ><img  src = "https://github.com/AdityaGit96/AdityaGit96/blob/main/src/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=32&weight=700&center=true&vCenter=true&width=500&height=65&duration=4200&pause=1800&lines=Hi+There!+👋;+I'm+Aditya+Anant!;" />
 </h1>        
