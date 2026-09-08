@@ -1,45 +1,59 @@
+# 👋 Hi, I'm Aditya
 
-# Aditya Git
+**Building AI Agents, Intelligent Applications, and Data-driven systems.**
 
-**Building multi-agent AI systems and intelligent applications**
+---
 
-I design and implement multi-agent LLM systems that route queries, use tools, retrieve knowledge, and produce useful outputs. My recent work focuses on LangGraph-based workflows, RAG, local models, and data analysis agents.
+## About Me
 
-### Tech Stack
+I'm a developer focused on designing and building AI agent systems — from multi-agent orchestration with LangGraph to RAG-powered consultation systems. I work across the stack, with experience in C#/.NET desktop applications, data analytics, and web development.
 
-**Languages**  
-Python · C#
+---
 
-**AI / Agents**  
-LangGraph · LangChain · LangSmith · Ollama · RAG · Tool calling
+## Tech Stack
 
-**Data & Analysis**  
-Pandas · NumPy · scikit-learn · SQL · SQLite · SQLAlchemy
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, C#, JavaScript, HTML, CSS |
+| **AI/LLM** | LangGraph, LangChain, LangSmith, Ollama, RAG, Vector Databases (Pinecone) |
+| **Frameworks** | .NET Framework, Windows Forms, Streamlit, Bootstrap |
+| **Databases** | SQL Server, SQLite |
+| **Tools** | Jupyter Notebook, Git, Azure Static Web Apps |
 
-**Interfaces & Tools**  
-Streamlit · FastAPI · Windows Forms · SQL Server · Pinecone
+---
 
-### Featured Projects
+## Featured Projects
 
-**[Agent-Flow](https://github.com/AdityaGit96/Agent-Flow)**  
-Multi-agent LLM system that dynamically routes queries to specialized agents for RAG, web search, and vision tasks. Built with LangGraph conditional workflows, tool-augmented reasoning, and LangSmith observability.  
-`LangGraph` `LangChain` `Streamlit` `Pinecone`
+### [Agent-Flow](https://github.com/AdityaGit96/Agent-Flow)
+Multi-agentic LLM orchestration system with graph-based execution. Dynamically routes queries across specialized agents (Router, RAG, Web, Vision, Answer) using LangGraph and LangChain.
 
-**[E_LENS – Ecom-Analysis-AI-Agent](https://github.com/AdityaGit96/Ecom-Analysis-AI-Agent)**  
-Multi-agent system that turns natural-language questions about e-commerce data into analysis, visualizations, insights, and PDF reports. Includes human-in-the-loop review and full LangSmith tracing.  
-`LangGraph` `LangChain` `Gemini` `Pandas` `Streamlit`
+**Tech:** LangGraph · LangChain · LangSmith · Pinecone · Streamlit
 
-**[Multi-AI-System](https://github.com/AdityaGit96/Multi-AI-System)**  
-Local multi-agent consultation system where specialized agents (Legal, Tech, Business) collaborate and debate. Fully private via Ollama + domain-specific RAG.  
-`Ollama` `RAG` `Python`
+---
 
-**[techcps-task-manager](https://github.com/AdityaGit96/techcps-task-manager)**  
-Desktop task and project management application with user authentication, dashboards, and SQL Server backend.  
-`C#` `.NET` `Windows Forms` `SQL Server`
+### [Multi-AI-System](https://github.com/AdityaGit96/Multi-AI-System)
+Terminal-based AI consultation system where specialized assistants (Legal, Tech, Business) debate problems in real-time. Features RAG with legal documents and local execution via Ollama.
+
+**Tech:** Python · Ollama · RAG
+
+---
+
+### [Techcps-Task-Manager](https://github.com/AdityaGit96/techcps-task-manager)
+Desktop task and project management application built with C# and .NET Framework. Features user authentication, task tracking, project organization, and SQL Server persistence.
+
+**Tech:** C# · .NET · Windows Forms · SQL Server
+
+---
+
+### [Ecom-Analysis-AI-Agent](https://github.com/AdityaGit96/Ecom-Analysis-AI-Agent)
+AI agent for e-commerce data analysis and insights generation.
+
+**Tech:** Python · AI/ML · Data Analysis
+
+---
 
 ### Connect
 
 - [LinkedIn](https://www.linkedin.com/AdityaGit96)
 - [X / Twitter](https://x.com/AdityaGit96)
 - [YouTube](https://www.youtube.com/@TechcpsOfficial)
-- 
